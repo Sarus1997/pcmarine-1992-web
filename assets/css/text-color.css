@@ -1,0 +1,16 @@
+.gradient-text1 {
+
+    font-size: 72px;
+    background: -webkit-linear-gradient(45deg, #67C1CE, #5590B2,#4B5491 ,#330E6A);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ }
+
+
+ .gradient-text2 {
+
+    font-size: 72px;
+    background: -webkit-linear-gradient(45deg, #8ff0ff, #76bce5,#7783cf );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ }
